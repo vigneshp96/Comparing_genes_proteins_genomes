@@ -1,6 +1,5 @@
 __author__ = 'Vignesh, vigneshkronos1@gmail.com'
 
-# Credits: Course's default codes.
 
 #  Sample Input:
 #   AAAAGGGG
