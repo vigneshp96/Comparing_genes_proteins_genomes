@@ -2,7 +2,7 @@ __author__ = 'Vignesh, vigneshkronos1@gmail.com'
 
 # Finally, we can compute Score(Motifs) by first constructing Consensus(Motifs) and then summing
 # the number of symbols in the j-th column of Motifs that do not match the symbol in position j
-# of the consensus string. We leave this task to you as an exercise.
+# of the consensus string.
 
 
 # Sample Input:
